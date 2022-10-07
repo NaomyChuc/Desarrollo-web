@@ -1,0 +1,13 @@
+body {
+    display: inline-flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  .elemento{
+  altura: 3em;
+  ancho: 120px;
+}
